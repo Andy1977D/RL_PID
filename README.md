@@ -23,6 +23,8 @@ The reward is the negative sum of losses minus a penalty for overshoots.
 ## Result
 
 After a long trial period, the loss and the overshoot becomes really low.
+
 And this becomes even superhuman, as I also tried a manual PID calibration, but with a slightly worse reward (Ok, I took much less exploration)
+
 However, the script just shows the feasibility for RL on random data, where repetition and gradient calculation is not possible.
 
