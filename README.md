@@ -12,6 +12,11 @@ A well calibrated PID shall be stable at any time and shall have a smooth behavi
 A further special challenge in calibrating a PID controller on a real system is, that - in opposite to MiL tuning - everytime there are different boundary conditions.
 This is exactly the use-case for RL.
 
+## License
+
+This repo is open for everybody and licensed under **MIT** license
+Author: Andreas Gotter
+
 ## Implementation
 
 The shown script calibrates the example system by utilization of a RL approach.
